@@ -25,6 +25,7 @@ Product categories and quantities sold
 Payment modes and regional sales trends
  
 **Highlights**
+
 **Business Problem**
 E-commerce businesses often struggle to visualize how different sales channels, payment methods, and products impact overall performance. Identifying profitable categories and loyal customers manually can be time-consuming and error-prone.
 

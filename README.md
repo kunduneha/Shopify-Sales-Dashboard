@@ -6,17 +6,25 @@ Built with clean data modelling and interactive visuals, it brings clarity to co
 This project reflects my approach to analytical storytelling — transforming raw data into actionable insights through design, precision, and purpose.
 
 **Project Title - Shopify Sales Dashboard**
+
 An interactive Power BI dashboard designed to analyze Shopify sales data, track business performance, and uncover key insights into customer behavior, product trends, and revenue drivers.
 
 **Tech Stack**
+
 **The dashboard was built using the following tools and technologies:**
+
 **Power BI Desktop** – for creating dynamic visuals and reports.
+
 **Power Query** – for cleaning, shaping, and transforming raw Shopify data.
+
 **DAX (Data Analysis Expressions)** – for calculating KPIs such as Profit, Quantity Sold, and Average Order Value.
+
 **Data Modelling**– to establish relationships between Orders, Products, and Customers tables.
+
 **File Format** – .pbix for the dashboard file and .png for the published snapshot.
 
 **Data Source**
+
 The dataset used for this project was sourced from GitHub, consisting of publicly available Shopify sales data.
 It includes detailed transaction records covering:
 Order-level sales and profit information
@@ -27,9 +35,11 @@ Payment modes and regional sales trends
 **Highlights**
 
 **Business Problem**
+
 E-commerce businesses often struggle to visualize how different sales channels, payment methods, and products impact overall performance. Identifying profitable categories and loyal customers manually can be time-consuming and error-prone.
 
 **Goal of the Dashboard**
+
 To provide a centralized and visual analysis platform for key Shopify metrics such as total sales, profit, customer segmentation, and regional performance — enabling faster, smarter business decisions.
 
 **Key Visuals & Insights:**
@@ -49,6 +59,7 @@ To provide a centralized and visual analysis platform for key Shopify metrics su
 **Business Impact:**
 
 **This dashboard helps stakeholders:**
+
 Identify revenue-driving products and states.
 Optimize payment methods for better conversions.
 Track performance over time using dynamic filters by quarter or state.

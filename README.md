@@ -74,3 +74,25 @@ Quantity Sold: 5,615 units sold
 Profit : ₹37K net profit
 
 Average Order Value:	₹121K
+
+**Business Impact & Insights**
+
+**Marketing Optimisation:**
+
+Brands and agencies can use this dashboard to identify top-performing product categories and payment preferences, improving promotional targeting and campaign ROI.
+
+**Strategic Planning:**
+
+Business heads can compare sales across states and months to allocate budgets more effectively, identifying where product demand is rising or falling.
+
+**Customer Retention:**
+
+By recognising the top customers and analysing purchase frequency, the dashboard supports loyalty initiatives and personalised marketing efforts.
+
+**Inventory & Supply Chain:**
+
+Category-level insights (like dominance of clothing and electronics) enable efficient inventory planning, reducing overstock and stockout risks.
+
+**Regional Growth:**
+
+State-wise comparisons (Maharashtra, Madhya Pradesh, Uttar Pradesh) help expand market strategies and understand consumer behaviour at the regional level.

@@ -5,11 +5,11 @@ Built with clean data modelling and interactive visuals, it brings clarity to co
 
 This project reflects my approach to analytical storytelling — transforming raw data into actionable insights through design, precision, and purpose.
 
-**Project Title - Shopify Sales Dashboard**
+1) **Project Title - Shopify Sales Dashboard**
 
 An interactive Power BI dashboard designed to analyze Shopify sales data, track business performance, and uncover key insights into customer behavior, product trends, and revenue drivers.
 
-**Tech Stack**
+2) **Tech Stack**
 
 **The dashboard was built using the following tools and technologies:**
 
@@ -23,7 +23,7 @@ An interactive Power BI dashboard designed to analyze Shopify sales data, track 
 
 **File Format** – .pbix for the dashboard file and .png for the published snapshot.
 
-**Data Source**
+3) **Data Source**
 
 The dataset used for this project was sourced from GitHub, consisting of publicly available Shopify sales data.
 It includes detailed transaction records covering:
@@ -32,7 +32,7 @@ Customer data and purchase frequency
 Product categories and quantities sold
 Payment modes and regional sales trends
  
-**Highlights**
+4) **Highlights**
 
 **Business Problem**
 
@@ -42,7 +42,7 @@ E-commerce businesses often struggle to visualize how different sales channels, 
 
 To provide a centralized and visual analysis platform for key Shopify metrics such as total sales, profit, customer segmentation, and regional performance — enabling faster, smarter business decisions.
 
-**Key Visuals & Insights:**
+5) **Key Visuals & Insights:**
 
 **Profit or Loss by Month:** Highlights seasonality and identifies months with losses (e.g., July & December).
 
@@ -56,16 +56,19 @@ To provide a centralized and visual analysis platform for key Shopify metrics su
 
 **Top States by Amount:** Maharashtra tops the chart, followed by Madhya Pradesh and Uttar Pradesh.
 
-**Business Impact:**
+6) **Business Impact:**
 
 **This dashboard helps stakeholders:**
 
 Identify revenue-driving products and states.
+
 Optimize payment methods for better conversions.
+
 Track performance over time using dynamic filters by quarter or state.
+
 Improve inventory and marketing decisions using customer and product insights.
 
-**Key Metrics:**
+7) **Key Metrics:**
  
 Total Amount: ₹438K total revenue generated
 
@@ -75,7 +78,7 @@ Profit : ₹37K net profit
 
 Average Order Value:	₹121K
 
-**Business Impact & Insights**
+8) **Business Impact & Insights**
 
 **Marketing Optimisation:**
 
@@ -96,3 +99,9 @@ Category-level insights (like dominance of clothing and electronics) enable effi
 **Regional Growth:**
 
 State-wise comparisons (Maharashtra, Madhya Pradesh, Uttar Pradesh) help expand market strategies and understand consumer behaviour at the regional level.
+
+9) **Screenshots:**
+https://github.com/kunduneha/Shopify-Sales-Dashboard/blob/main/Shopify%20Dashboard.png
+
+
+

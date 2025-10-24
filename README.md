@@ -68,6 +68,9 @@ Improve inventory and marketing decisions using customer and product insights.
 **Key Metrics:**
  
 Total Amount: ₹438K total revenue generated
+
 Quantity Sold: 5,615 units sold
+
 Profit : ₹37K net profit
+
 Average Order Value:	₹121K

@@ -70,13 +70,12 @@ Improve inventory and marketing decisions using customer and product insights.
 
 7) **Key Metrics:**
  
-Total Amount: ₹438K total revenue generated
-
-Quantity Sold: 5,615 units sold
-
-Profit : ₹37K net profit
-
-Average Order Value:	₹121K
+| Metric                  | Description                   |
+| ----------------------- | ----------------------------- |
+| **Total Amount**        | ₹438K total revenue generated |
+| **Quantity Sold**       | 5,615 units sold              |
+| **Profit**              | ₹37K net profit               |
+| **Average Order Value** | ₹121K                         |
 
 8) **Business Impact & Insights**
 
